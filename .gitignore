@@ -42,3 +42,10 @@ next-env.d.ts
 node_modules/
 dist/
 .env
+
+
+# agent tooling / skills
+/.agents
+/.claude
+/.cursor
+/.devin
